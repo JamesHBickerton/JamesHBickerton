@@ -25,6 +25,3 @@ A physiotherapist-turned-developer based in Australia/New Zealand (soon to be Ir
 
 ---
 
-_“Learning to code is like learning to walk again — awkward, painful, but worth it.”_  
-Thanks for stopping by!
-
