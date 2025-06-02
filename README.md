@@ -6,7 +6,7 @@ A physiotherapist-turned-developer based in Australia/New Zealand (soon to be Ir
 
 ### 👨‍💻 What I'm Working On
 - 🌐 Personal portfolio website (HTML, CSS, JavaScript)
-- 🎥 [Learning in Public #001](#) – Nav link hover effect (with video explanation!)
+- 🎥 [Learning in Public #001](https://www.linkedin.com/in/jameshbickerton/) – Learning in public series on my Linkedin! 
 - 📱 Planning an iOS/web app for on-the-go rehab & diagnosis
 
 ---
