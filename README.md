@@ -19,7 +19,7 @@ A physiotherapist-turned-developer based in Australia/New Zealand (soon to be Ir
 ---
 
 ### 💬 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/james-b-0962452b3/)
+- [LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jameshbickerton)
 - [GitHub Projects](https://github.com/JamesHBickerton?tab=repositories)
 - [Email Me](mailto:jameshuiabickerton@gmail.com)
 
