@@ -1,6 +1,6 @@
 # Kia Ora, I'm James 👋
 
-A physiotherapist-turned-developer based in Australia/New Zealand (soon to be Ireland 🇮🇪), currently focused on building clean, responsive websites while learning in public.
+A physiotherapist-turned-developer from New Zealand - now based in Dublin, Ireland 🇮🇪 - currently focused on building clean, responsive websites while learning in public.
 
 ---
 
