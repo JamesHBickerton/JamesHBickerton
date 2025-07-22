@@ -2,7 +2,7 @@
 
 I’m a former physiotherapist from New Zealand, now living in Dublin, Ireland 🇮🇪 and working on becoming a better developer every day. These days I’m focused on building clean, responsive websites and learning as much as I can by sharing my progress in public.
 
-The past month’s been a bit quiet on GitHub — I took some time off to move countries and settle in — but I’m back now and excited to keep building, learning, and growing.
+The past month’s been a bit quiet on GitHub (I took some time off to move countries and settle in) but I’m back now and excited to keep building, learning, and growing.
 
 I’m especially interested in projects that combine good design with solid functionality, and I’m always keen to connect with other devs or teams working on interesting stuff.
 ---
