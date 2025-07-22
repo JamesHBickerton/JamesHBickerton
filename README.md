@@ -4,7 +4,7 @@ I’m a former physiotherapist from New Zealand, now living in Dublin, Ireland �
 
 The past month’s been a bit quiet on GitHub (I took some time off to move countries and settle in) but I’m back now and excited to keep building, learning, and growing.
 
-I’m especially interested in projects that combine good design with solid functionality, and I’m always keen to connect with other devs or teams working on interesting stuff.
+I’m especially interested in projects that combine good design with solid functionality, and I’m always keen to connect with other devs or teams working on interesting projects/ideas!
 
 ---
 
