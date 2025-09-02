@@ -4,12 +4,14 @@ I’m a former physiotherapist from New Zealand, now living in Dublin, Ireland �
 
 The past month’s been a bit quiet on GitHub (I took some time off to move countries and settle in) but I’m back now and excited to keep building, learning, and growing.
 
-I’m especially interested in projects that combine good design with solid functionality, and I’m always keen to connect with other devs or teams working on interesting projects/ideas!
+I'm developing DearResident, a family-focused web app that helps aged care residents and their families track movement, wellbeing, and engagement.
+
+I’m always keen to connect with other devs or teams working on interesting projects/ideas!
 
 ---
 
 ### 👨‍💻 What I'm Working On
-- 🌐 Personal portfolio website (HTML, CSS, JavaScript).
+- 🌐 Personal portfolio website (HTML, CSS, JavaScript & React).
 - 🎥 [Learning in Public Journey](https://www.linkedin.com/in/jameshbickerton/) – Learning in public series on my Linkedin! 
 - 📱 Planning a physiotherapy app for Aged Care Residents and Families - DearResident
 
