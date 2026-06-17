@@ -1,27 +1,26 @@
 # Kia Ora, I'm James 👋
 
-I’m a former physiotherapist from New Zealand, now living in Dublin, Ireland 🇮🇪 and working on becoming a better developer every day. These days I’m focused on building clean, responsive websites and learning as much as I can by sharing my progress in public.
+I’m a physiotherapist from New Zealand 🇳🇿, now based in Dublin, Ireland 🇮🇪, currently transitioning into data analytics.
 
-The past month’s been a bit quiet on GitHub (I took some time off to move countries and settle in) but I’m back now and excited to keep building, learning, and growing.
+I’m focused on building strong foundations in Excel, SQL, and Power BI, with the goal of progressing into a Master’s in Data Analytics and a long-term career in data-driven roles. My background in physiotherapy has given me a strong analytical mindset, experience working with people, and a practical approach to problem-solving.
 
-I'm developing DearResident, a family-focused web app that helps aged care residents and their families track movement, wellbeing, and engagement.
-
-I’m always keen to connect with other devs or teams working on interesting projects/ideas!
+Recently, I’ve also been re-building my technical skills in front-end software development (HTML, CSS, JavaScript, React), but my current focus is firmly on data analysis and business intelligence.
 
 ---
 
 ### 👨‍💻 What I'm Working On
-- 🌐 Personal portfolio website (HTML, CSS, JavaScript & React).
-- 🎥 [Learning in Public Journey](https://www.linkedin.com/in/jameshbickerton/) – Learning in public series on my Linkedin! 
-- 📱 Planning a physiotherapy app for Aged Care Residents and Families - DearResident
+- 🌐 Learning Excel, SQL & Power BI (data cleaning, analysis, dashboards)
+- 🎓 Preparing for a Master’s in Data Analytics
+- 📊 Building portfolio projects focused on real-world data insights
 
 ---
 
 ### 🚀 Tech Stack So Far
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+- Excel (data cleaning, pivot tables, dashboards)
+- SQL (queries, joins, aggregations)
+- Power BI (data modelling, interactive dashboards)
+- Python (pandas, data analysis basics)
 
 ---
 
